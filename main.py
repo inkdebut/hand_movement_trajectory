@@ -5,6 +5,10 @@
 # @Time    : 11:21
 # @Project : hand_movement_trajectory
 
+#Warning:
+#I wrote all these comments as Chinese, because the relationship between time and some reasons can not
+#be changed one by one,you can choose to copy and then go to the relevant website or software translation
+
 
 #基于cv2和mediapipe(介质媒体),检测摄像头所拍到的画面中的手，并画出关节连线与追踪其运动轨迹
 #想修改检测的精度与运行速度以及摄像头所能检测到的手的数量可以在Hand()中修改参数

@@ -7,7 +7,7 @@
 
 #Warning:
 #I wrote all these comments as Chinese, because the relationship between time and some reasons can not
-#be changed one by one,you can choose to copy and then go to the relevant website or software translation
+#be changed one by one,you can choose to copy and then go to the relevant website or software translater
 
 
 #基于cv2和mediapipe(介质媒体),检测摄像头所拍到的画面中的手，并画出关节连线与追踪其运动轨迹

@@ -6,8 +6,8 @@
 # @Project : hand_movement_trajectory
 
 #Warning:
-#I wrote all these comments as Chinese, because the relationship between time and some reasons can not
-#be changed one by one,you can choose to copy and then go to the relevant website or software translater
+#These comments were all written in Chinese. due to time constraints and some reasons, 
+#they can not be changed one by one. You can choose to copy them and then go to relevant websites or software for translation.
 
 
 #基于cv2和mediapipe(介质媒体),检测摄像头所拍到的画面中的手，并画出关节连线与追踪其运动轨迹
